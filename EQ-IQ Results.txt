@@ -1,0 +1,5 @@
+Name :     Manuja
+Age :      20
+Gender :   Male
+IQ Score : 0/100
+EQ Score : 30/100
